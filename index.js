@@ -55,7 +55,7 @@ async function ejecutarProceso() {
 if (require.main === module) {
   // Notificamos el inicio del proceso
   console.log('='.repeat(50));
-  console.log(' SISTEMA DE FACTURACIÓN DOMINO\'S PIZZA');
+  console.log(' SISTEMA DE FACTURACIÓN ITALIANNIS');
   console.log('='.repeat(50));
   console.log(`[${new Date().toISOString()}]`);
   
