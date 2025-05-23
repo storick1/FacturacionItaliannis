@@ -21,7 +21,6 @@ const datosDeLaFactura = {
   ticket: '012345678',
   total: '209.99'
 };
-// Buen trabajo
 
 
 // Función principal que ejecuta el proceso
